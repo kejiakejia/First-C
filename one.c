@@ -3,5 +3,5 @@
 int main(void)
 {
 	// show the lines
-	printf("Hi i'm in github now!~~");
+	printf("Hi i'm in github now!~~\n");
 }
